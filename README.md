@@ -1,6 +1,6 @@
-    <a href="https://github.com/rocnewbee/llama-4" target="_blank">GitHub</a> |
-    <a href="https://llamaai.online" target="_blank">Chat with Llama 4</a> |
-    <a href="https://huggingface.co/collections/meta-llama/llama-4" target="_blank">Hugging Face</a> |
+    <a href="https://github.com/rocnewbee/llama-4" target="_blank">GitHub</a> 
+    <a href="https://llamaai.online" target="_blank">Chat with Llama 4</a> 
+    <a href="https://huggingface.co/collections/meta-llama/llama-4" target="_blank">Hugging Face</a> 
 
 
 Model Information
