@@ -1,3 +1,8 @@
+    <a href="https://github.com/rocnewbee/llama-4" target="_blank">GitHub</a> |
+    <a href="https://llamaai.online" target="_blank">Chat with Llama 4</a> |
+    <a href="https://huggingface.co/collections/meta-llama/llama-4" target="_blank">Hugging Face</a> |
+
+
 Model Information
 The Llama 4 collection of models are natively multimodal AI models that enable text and multimodal experiences. These models leverage a mixture-of-experts architecture to offer industry-leading performance in text and image understanding.
 
@@ -16,7 +21,7 @@ Model Release Date: April 5, 2025
 
 Status: This is a static model trained on an offline dataset. Future versions of the tuned models may be released as we improve model behavior with community feedback.
 
-License: A custom commercial license, the Llama 4 Community License Agreement, is available at: https://github.com/meta-llama/llama-models/blob/main/models/llama4/LICENSE
+License: A custom commercial license, the Llama 4 Community License Agreement, is available at: https://github.com/rocnewbee/llama-4
 
 Where to send questions or comments about the model: Instructions on how to provide feedback or comments on the model can be found in the Llama README. For more technical information about generation parameters and recipes for how to use Llama 4 in applications, please go here.
 
